@@ -9,6 +9,8 @@ videolink1.  https://youtu.be/j_bPtjpJBOM
 
 heroku: https://ecommerce-backend-hw.herokuapp.com/
 
+heroku with JawsDB https://dashboard.jawsdb.com/mysql/dashboard
+
 
 
 
