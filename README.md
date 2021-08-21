@@ -7,6 +7,10 @@ Because this application won’t be deployed, you’ll also need to provide a li
 
 videolink1.  https://youtu.be/j_bPtjpJBOM
 
+heroku: https://ecommerce-backend-hw.herokuapp.com/
+
+
+
 
 
 
